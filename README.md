@@ -8,6 +8,8 @@ Project for building a neuralnet within the Bitcoin Protocol using Script.
 
 ## shifting mindset of transactions to non-monetary concept of input/output biases
 1. We will essentially start by porting over more common neuralnet designs
+2. Start thinking about approaches to our nodes and programs where a bitcoin address is the program reference, so nodes operating fully independent will need their own address (like smartcontracts)
+3. Each node in the neural net will have its feedback bias adjusted by incoming transactions (i/o layer)
 
 ## potential uses
 1. Image recognition
