@@ -12,3 +12,7 @@ Project for building a neuralnet within the Bitcoin Protocol using Script.
 ## potential uses
 1. Image recognition
 2. Content curation
+
+## references
+1. https://en.bitcoin.it/wiki/Script Bitcoin Script documents
+2. http://aima.cs.berkeley.edu/ Artificial Intelligence: A Modern Approach by Russel/Norvig
